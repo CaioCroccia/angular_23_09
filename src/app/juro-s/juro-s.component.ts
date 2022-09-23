@@ -7,7 +7,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class JuroSComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+
+    Option: 0;
+   }
 
   ngOnInit() {
   }
